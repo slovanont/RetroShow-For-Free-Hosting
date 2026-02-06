@@ -2,7 +2,7 @@
 session_start();
 
 $host = "servername";
-$dbname = "satabasename";
+$dbname = "databasename";
 $user = "username";
 $pass = "password";
 $charset = "utf8mb4";
