@@ -42,5 +42,4 @@ CREATE TABLE IF NOT EXISTS videos (
     FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
 ");
-// echo "Banco inicializado com sucesso";
 ?>
